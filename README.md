@@ -7,7 +7,7 @@
 <table border="0">
   <tr>
     <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 12px; border: 1px solid #30363d;">
-      <video src="https://github.com/teto06920623/map/assets/video.mp4" width="100%" controls style="max-width: 400px; border-radius: 8px;">
+      <video src="https://github.com/teto06920623/map.git" width="100%" controls style="max-width: 400px; border-radius: 8px;">
         Your browser does not support the video tag.
       </video>
     </td>
